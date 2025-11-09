@@ -2,7 +2,7 @@
 
 📚 Learning
 
-- practice using HTML5 and CSS3 to make a static web page with flexbox
+- practice using HTML5 and CSS3 to make a static web page using flexbox
 
 💻 Technologies Used
 

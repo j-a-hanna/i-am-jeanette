@@ -1,1 +1,15 @@
-# 08.01-206-flexbox-edited
+# i-am-jeanette
+
+📚 Learning
+
+- practice using HTML5 and CSS3 to make a static web page with flexbox
+
+💻 Technologies Used
+
+- HTML5 / CSS3
+
+- Git / GitHub for version control
+
+✍️ Author
+
+Jeanette Attia Hanna

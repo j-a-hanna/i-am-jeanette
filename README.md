@@ -1,15 +1,19 @@
-# i-am-jeanette
+## i-am-jeanette
 
-📚 Learning
+## 📸 Project Screenshot
 
-- practice using HTML5 and CSS3 to make a static web page using flexbox
+![I am Jeanette Homepage](img/i-am-jeanette.png)
 
-💻 Technologies Used
+## 📚 Learning
+
+- practice using HTML5 and CSS3 to make a responsive web page using flexbox
+
+## 💻 Technologies Used
 
 - HTML5 / CSS3
 
 - Git / GitHub for version control
 
-✍️ Author
+## ✍️ Author
 
 Jeanette Attia Hanna
